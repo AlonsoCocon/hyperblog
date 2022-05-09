@@ -3,3 +3,8 @@ body{
     background-color: violet;
     font-family: 'Times New Roman', Times, serif;
 }
+#container {
+    border-radius: 5px, solid, rgb(24, 4, 4);
+    background-color: blanchedalmond;
+    color: rgb(8, 87, 87);
+}
