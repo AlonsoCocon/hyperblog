@@ -8,3 +8,9 @@ body{
     background-color: blanchedalmond;
     color: rgb(8, 87, 87);
 }
+
+#cabecera h1 {
+    color: brown;
+    text-align: left;
+    font-size: 25px;
+}
